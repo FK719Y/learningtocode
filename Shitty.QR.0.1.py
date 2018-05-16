@@ -27,6 +27,6 @@ for i in range(19): # size of hash digest value
     shelly.penup()
     shelly.setposition(0, 0)
     shelly.pendown()
-    shelly.right(30)
+    shelly.right(60)
     
 turtle.done()
